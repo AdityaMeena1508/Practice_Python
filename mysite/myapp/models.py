@@ -27,7 +27,7 @@ from django.db import models
 #     (Intern,'intern'),
 # ]
 
-
+#asdfasdfsaf
 # class Page(models.Model):
     
 #     user = models.ManyToManyField(User,blank=True,null=True)
