@@ -26,7 +26,7 @@ from django.db import models
 #     (Experience,"experience"),
 #     (Intern,'intern'),
 # ]
-
+# today i will work on views
 #asdfasdfsaf
 # class Page(models.Model):
     
